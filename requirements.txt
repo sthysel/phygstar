@@ -1,1 +1,3 @@
 requests
+Django>=1.8
+django-adaptors
