@@ -1,6 +1,8 @@
+db:
+    image: postgress
 phygstar:
     build: .
     ports:
         - "8080:8080"
     volumes:
-        - .:/usr/src/app
+        - ./src/:/src/
