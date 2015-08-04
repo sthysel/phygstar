@@ -1,7 +1,7 @@
-phygdb
-======
+# phygstar is a star database(s) viewer
 
-A python API for the HYG star database.
+phygstar aims to expose star databases in a conveniently searchable way.
 
-The raw data can be found here https://github.com/astronexus/HYG-Database.
+## Databases
+* https://github.com/astronexus/HYG-Database.
 
